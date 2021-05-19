@@ -1,0 +1,13 @@
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\04 - Projeto APP Transf Bancaria\BankAPP\bin\Debug\netcoreapp3.1\BankAPP.exe
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\04 - Projeto APP Transf Bancaria\BankAPP\bin\Debug\netcoreapp3.1\BankAPP.deps.json
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\04 - Projeto APP Transf Bancaria\BankAPP\bin\Debug\netcoreapp3.1\BankAPP.runtimeconfig.json
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\04 - Projeto APP Transf Bancaria\BankAPP\bin\Debug\netcoreapp3.1\BankAPP.runtimeconfig.dev.json
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\04 - Projeto APP Transf Bancaria\BankAPP\bin\Debug\netcoreapp3.1\BankAPP.dll
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\04 - Projeto APP Transf Bancaria\BankAPP\bin\Debug\netcoreapp3.1\BankAPP.pdb
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\04 - Projeto APP Transf Bancaria\BankAPP\obj\Debug\netcoreapp3.1\BankAPP.csprojAssemblyReference.cache
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\04 - Projeto APP Transf Bancaria\BankAPP\obj\Debug\netcoreapp3.1\BankAPP.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\04 - Projeto APP Transf Bancaria\BankAPP\obj\Debug\netcoreapp3.1\BankAPP.AssemblyInfo.cs
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\04 - Projeto APP Transf Bancaria\BankAPP\obj\Debug\netcoreapp3.1\BankAPP.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\04 - Projeto APP Transf Bancaria\BankAPP\obj\Debug\netcoreapp3.1\BankAPP.dll
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\04 - Projeto APP Transf Bancaria\BankAPP\obj\Debug\netcoreapp3.1\BankAPP.pdb
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\04 - Projeto APP Transf Bancaria\BankAPP\obj\Debug\netcoreapp3.1\BankAPP.genruntimeconfig.cache
